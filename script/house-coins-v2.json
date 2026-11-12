@@ -1,0 +1,70 @@
+{
+  "baseFeePips": 3000,
+  "chainId": 43114,
+  "coins": {
+    "HCAT": {
+      "image": "/coins/hookcat.png",
+      "moduleIds": [
+        18,
+        12
+      ],
+      "modules": "Momentum + LastBuyerPot",
+      "name": "HookCat",
+      "token": "0x5A2000dAe8aF6a92075f4AeD928845a94bB06BD8"
+    },
+    "HDOG": {
+      "image": "/coins/hookdog.png",
+      "moduleIds": [
+        21,
+        2
+      ],
+      "modules": "Referral + AutoBurn",
+      "name": "HookDog",
+      "token": "0x39E2b074544F43EA81b3216fAc20523888926FbF"
+    },
+    "HOOK": {
+      "image": "/coins/hookavax-coin-logo.png",
+      "moduleIds": [
+        2,
+        1
+      ],
+      "modules": "AutoBurn + AntiSnipe",
+      "name": "Avax Hook",
+      "token": "0x898D93e5BF6ee61a03f50CB0cdBF9C3751dA8Dc7"
+    },
+    "HSHARK": {
+      "image": "/coins/hookshark.png",
+      "moduleIds": [
+        1,
+        17,
+        26
+      ],
+      "modules": "AntiSnipe + MevShield + WhaleGuard",
+      "name": "HookShark",
+      "token": "0x7fF6C41CcD59889A71983B89443874Ec6a99469b"
+    },
+    "HWHALE": {
+      "image": "/coins/hookwhale.png",
+      "moduleIds": [
+        11,
+        1
+      ],
+      "modules": "KingOfTheHill + AntiSnipe",
+      "name": "HookWhale",
+      "token": "0x5d3C35D081d26922DFEfeF335E44be17E68465ba"
+    },
+    "VARIUM": {
+      "image": "/coins/avaxvarium.png",
+      "moduleIds": [
+        19,
+        4
+      ],
+      "modules": "NthBuyPot + BreathingCap",
+      "name": "Avaxvarium",
+      "token": "0x565Ba84B16198D1aE245f57f8e63B0087160940f"
+    }
+  },
+  "creator": "0x7149FaF83059A6c8274441898C3fD5569F14614d",
+  "creatorFeeBps": 50,
+  "launchpad": "0x922A73Bd8aC4db8729aADE7a09288Da536058F02"
+}

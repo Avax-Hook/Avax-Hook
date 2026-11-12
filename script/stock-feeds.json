@@ -1,0 +1,52 @@
+{
+  "0x13A466998Ce03Db73aBc2d4DF3bBD845Ed1f28E7": {
+    "symbol": "PHAR",
+    "token": "0x13A466998Ce03Db73aBc2d4DF3bBD845Ed1f28E7",
+    "feed": "0x494dba8cbc19fcc3aafde56ceacc99ebad34230c"
+  },
+  "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd": {
+    "symbol": "JOE",
+    "token": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "feed": "0x0a5e34b8f27dfbf57a829590336a3d228329a408"
+  },
+  "0x60781C2586D68229fde47564546784ab3fACA982": {
+    "symbol": "PNG",
+    "token": "0x60781C2586D68229fde47564546784ab3fACA982",
+    "feed": "0x4e2ea384589f92c72c6c51dbd822ddc0df30c5b5"
+  },
+  "0x420FcA0121DC28039145009570975747295f2329": {
+    "symbol": "COQ",
+    "token": "0x420FcA0121DC28039145009570975747295f2329",
+    "feed": "0xd85d3231c6c55e0293cef2e364f11b1346997d5a"
+  },
+  "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7": {
+    "symbol": "KET",
+    "token": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+    "feed": "0xa3bfe7c687bf2ee2b597351574a76b89d6e6c97a"
+  },
+  "0x18E3605B13F10016901eAC609b9E188CF7c18973": {
+    "symbol": "HEFE",
+    "token": "0x18E3605B13F10016901eAC609b9E188CF7c18973",
+    "feed": "0x37072708c68c2e6e4675dc433d219de15840a1a0"
+  },
+  "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C": {
+    "symbol": "ARENA",
+    "token": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+    "feed": "0x465c40a755093d88f123d4d4a2e3e4b93230c49b"
+  },
+  "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5": {
+    "symbol": "NOCHILL",
+    "token": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+    "feed": "0xd67422432f00654a89f2ec0bfe47dc39f6afb1e3"
+  },
+  "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6": {
+    "symbol": "BLACK",
+    "token": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+    "feed": "0x0995d0ccb5d09f1386a6eaffa0233632dbb17218"
+  },
+  "0x34a1D2105dd1b658A48EAD516A9CE3032082799C": {
+    "symbol": "GLADIUS",
+    "token": "0x34a1D2105dd1b658A48EAD516A9CE3032082799C",
+    "feed": "0x76bd36d0f97840c5608e0d8e799493b3dd25ce15"
+  }
+}

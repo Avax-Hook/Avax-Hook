@@ -1,0 +1,19 @@
+{
+  "AvaxHookV2": "0x5aee0417293a175108124d462E5c10D400f6aaCC",
+  "HookModuleRegistry": "0xAc1B5D117FDcaeEe970Fa227ED5F55F93E7493D8",
+  "PoolCoordinatorV1": "0x328BC346ff3253c0E79Dd85CEB0398731568012E",
+  "PoolRouterV1": "0xEdcE6bE8eB219B6EebB7d3C3620356273a1B748d",
+  "hookContract": "AvaxHookPoolsV1",
+  "module:AutoBurn": "0x552b0aa75db8014E396E752d4CefbAb76cd1324c",
+  "module:DynamicFee": "0xf7d514C270A0CAad890618a4767182aE8a38E5F4",
+  "module:LastBuyerPot": "0x3c070F4da2A0969677829E9bb8d00Aeea182926C",
+  "module:LpRewards": "0x28D03EDb62cE20CdeDcCF5e60f451869a1D7bADc",
+  "module:MarketHours": "0xA97EAb2888d07f117E30d2AdcBAed37d2393d9aD",
+  "module:MarketHoursSellsOpen": "0x58131E526655be28071b6124fDa086715e992521",
+  "module:MevShield": "0xB5804e4b7c58859cD20DbB1FA399B2Cb0931dAFe",
+  "module:NthBuyPot": "0x9912C95C166AE59F95F48455B0aa29F6d3717136",
+  "module:Royalty": "0xC07c27D611546D3D15A1aB9273D1C5AF27245044",
+  "module:SellTaxDecay": "0x1BAf300867cBDa62c2f6388E55cF6d78a39Ae5cf",
+  "module:VolatilityFee": "0xca4E82676E1350C6E0F4EadB0534Ad3824C06163",
+  "module:WhaleGuard": "0x3d0fF9bAfed44BD0F8DfB27AC1Ee5545C0A4D0Ce"
+}

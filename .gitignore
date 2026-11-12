@@ -1,0 +1,9 @@
+/cache
+/out
+/broadcast
+
+# secrets: never commit
+.env
+.env.*
+
+.DS_Store
